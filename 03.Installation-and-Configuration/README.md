@@ -104,7 +104,7 @@ worker nodes> kubeadm join --token token head-node-IP
 
 - [kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 
-- [kubesplay](https://github.com/kubernetes-sigs/kubespray)
+- [kubespray](https://github.com/kubernetes-sigs/kubespray)
 - [kops](https://github.com/kubernetes/kops)
 - [kube-aws](https://github.com/kubernetes-retired/kube-aws)
 - [kubicorn](http://kubicorn.io/)
